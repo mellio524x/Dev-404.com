@@ -1,0 +1,11 @@
+# robots.txt for dev-404.com and devmusic404.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://dev-404.com/sitemap.xml
+Sitemap: https://devmusic404.com/sitemap.xml
+
+# Crawl-delay (optional)
+Crawl-delay: 1
